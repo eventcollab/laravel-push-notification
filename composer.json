@@ -11,7 +11,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/alalonde/NotificationPusher"
+            "url": "https://github.com/eventcollab/NotificationPusher"
         }
     ],
     "require": {
